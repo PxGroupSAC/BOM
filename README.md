@@ -10,7 +10,7 @@ Nuestra lista de materiales incluye la siguiente información:
 4. Licencia de uso del componente.
 5. Información sobre actualizaciones y parches de seguridad.
 6. Vulnerabilidades conocidas y su estado de resolución.
-7. 
+
 Mantener esta lista actualizada nos permite:
 
 1. Monitorear y gestionar las dependencias en nuestras aplicaciones de manera efectiva.
